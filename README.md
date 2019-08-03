@@ -101,7 +101,7 @@ For writing to the tag also needed to override the onNewIntent
 ### Download
 
 
-The latest version can be downloaded in zip and referenced by your application as a library project.
+The latest version can be downloaded in [zip](https://github.com/hathorr-hub/goNfcLight/archive/1.1.zip) and referenced by your application as a library project.
 
 You can also depend on library through Maven :
 
